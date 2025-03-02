@@ -12,8 +12,6 @@
 
 ---
 
-# 🚀 Manish Sharma  
-
 ## 💻 Tech Stack  
 
 <table>
