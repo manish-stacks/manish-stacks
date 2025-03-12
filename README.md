@@ -14,7 +14,14 @@
 
 ## 💻 Tech Stack  
 
-
+<table>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td align="center"><b>Backend & Databases</b></td>
+    <td align="center"><b>Tools & Hosting</b></td>
+  </tr>
+  <tr>
+    <td>
       <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"><br>
       <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"><br>
       <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br>
@@ -24,7 +31,8 @@
       <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"><br>
       <img src="https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=white"><br>
       <img src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white">
-   
+    </td>
+    <td>
       <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white"><br>
       <img src="https://img.shields.io/badge/Express.js-%23404040?style=for-the-badge&logo=express&logoColor=white"><br>
       <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white"><br>
@@ -33,12 +41,15 @@
       <img src="https://img.shields.io/badge/CodeIgniter-%23EE4323?style=for-the-badge&logo=codeigniter&logoColor=white"><br>
       <img src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white"><br>
       <img src="https://img.shields.io/badge/NestJS-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-   
+    </td>
+    <td>
       <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"><br>
       <img src="https://img.shields.io/badge/GitHub_Pages-%23181717?style=for-the-badge&logo=github&logoColor=white"><br>
       <img src="https://img.shields.io/badge/Render-%23000000?style=for-the-badge&logo=render&logoColor=white"><br>
       <img src="https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white">
-   
+    </td>
+  </tr>
+</table>
 
 ---
 
