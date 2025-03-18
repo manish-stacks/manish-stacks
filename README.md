@@ -41,20 +41,20 @@
 ---
 
 ## 📊 GitHub Stats  
-<p>
+
 ![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manish-stacks&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manish-stacks&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manish-stacks&theme=tokyonight)  
-</p>
+
 ---
 
 ## 📡 Connect With Me  
-<p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manish-sharma-89206421b)  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/manis_h_95)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manish-stacks)  
-</p>
+
 ---
 
 🔥 **Let's build something amazing together!** 🚀  
