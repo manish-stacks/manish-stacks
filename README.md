@@ -53,9 +53,7 @@ Always learning and exploring new technologies.
 ### 📈 GitHub Stats
 
 <p align="center">
-  ![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manish-stacks&show_icons=true&theme=tokyonight)  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manish-stacks&layout=compact&theme=tokyonight)  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manish-stacks&theme=tokyonight)  
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=manish-stacks&theme=tokyonight" />
 </p>
 
 ---
