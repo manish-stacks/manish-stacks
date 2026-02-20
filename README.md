@@ -34,6 +34,18 @@ Always learning and exploring new technologies.
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter-%23EE4323?style=flat&logo=codeigniter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-%23000000?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-%23E0234E?style=flat&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-%23764ABC?style=flat&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-%23646CFF?style=flat&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Pages-%23181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-%23000000?style=flat&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-%23000000?style=flat&logo=vercel&logoColor=white"/>
+
 </p>
 
 ---
@@ -41,8 +53,9 @@ Always learning and exploring new technologies.
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=manish-stacks&show_icons=true&theme=radical" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish-stacks&layout=compact&theme=radical" />
+  ![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manish-stacks&show_icons=true&theme=tokyonight)  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manish-stacks&layout=compact&theme=tokyonight)  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manish-stacks&theme=tokyonight)  
 </p>
 
 ---
@@ -50,16 +63,16 @@ Always learning and exploring new technologies.
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/manish-stack/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/your-instagram" target="_blank">
+  <a href="https://instagram.com/msharma.js" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://facebook.com/your-facebook" target="_blank">
+  <a href="https://facebook.com/#" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:mks957678@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -70,10 +83,16 @@ Always learning and exploring new technologies.
 
 <p>These are some repositories I’m proud of:</p>
 
-- **React Native To-Do App** – A full mobile to-do app ⭐ *(Link to your repo)*  
 - **Expo Chat App** – Real-time chat app with authentication ⭐  
-- **phpMailer** – Simple mailing system ⭐  
+- **Doctor Management System** – A healthcare management system ⭐ 
 - **EJS-CRUD App** – Practice MERN/EJS CRUD app ⭐
+- **HRMS (Human Resource Management System)** – Employee management app ⭐ 
+- **Real-Time Chat System** – Real-time messaging app ⭐ 
+- **E-Commerce App** – Full-featured e-commerce app ⭐ 
+- **Inventory Management System** – Track and manage product stock ⭐ 
+- **Task Management and Collaboration Tool** – Organize tasks and collaborate with teams ⭐ 
+- **Learning Management System (LMS)** – Educational platform for courses and quizzes ⭐
+- **Food Delivery App** – App for ordering and delivering food ⭐
 
 ---
 
